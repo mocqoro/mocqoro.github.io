@@ -1,1 +1,1 @@
-# mocqoro.github.io
+# Thunder Script
